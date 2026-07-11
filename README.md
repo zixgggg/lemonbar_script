@@ -5,3 +5,5 @@ Dependencies:
 sudo apt install libxcb-xinerama0-dev  
 sudo apt install libx11-xcb-dev  
 sudo apt install libxcb-randr0-dev  
+script usage:  
+./script|lemonbar  
